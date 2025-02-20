@@ -1,7 +1,0 @@
-dsa-II
-java
-python
-math
-networking
-hindi
-oe
